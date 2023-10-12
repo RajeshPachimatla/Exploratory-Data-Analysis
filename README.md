@@ -1,2 +1,3 @@
 # EDA
-The link for the data is given below.
+-The dataset used can be found on kaggle or inbuilt data sets
+
